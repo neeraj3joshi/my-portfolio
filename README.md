@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Neeraj Joshi
+This is my portfolio
