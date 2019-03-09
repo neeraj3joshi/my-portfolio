@@ -2,4 +2,4 @@
 This is my portfolio
 
 ## Technology Used
-aws reactJS
+aws reactJS, Java
